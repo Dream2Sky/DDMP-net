@@ -1,0 +1,10 @@
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/bin/Debug/netcoreapp2.0/DDMP-webapi.deps.json
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/bin/Debug/netcoreapp2.0/DDMP-webapi.runtimeconfig.json
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/bin/Debug/netcoreapp2.0/DDMP-webapi.runtimeconfig.dev.json
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/bin/Debug/netcoreapp2.0/DDMP-webapi.dll
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/bin/Debug/netcoreapp2.0/DDMP-webapi.pdb
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/obj/Debug/netcoreapp2.0/DDMP-webapi.csproj.CoreCompileInputs.cache
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/obj/Debug/netcoreapp2.0/DDMP-webapi.AssemblyInfoInputs.cache
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/obj/Debug/netcoreapp2.0/DDMP-webapi.AssemblyInfo.cs
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/obj/Debug/netcoreapp2.0/DDMP-webapi.dll
+/mnt/d/html/DDMP/DDMP-net/DDMP-webapi/obj/Debug/netcoreapp2.0/DDMP-webapi.pdb
